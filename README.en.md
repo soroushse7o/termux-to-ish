@@ -1,8 +1,14 @@
-# Termux to iSH Command Converter
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=Convert+Termux+commands;to+iSH+seamlessly" alt="Typing SVG">
+<a href="https://soroushse7o.github.io/termux-to-ish/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=termux-to-ish&fontSize=30&animation=fadeIn" width="100%">
+</a>
 
-[فارسی](README.fa.md) · **English**
+مبدل دستور ترموکس به iSH
 
+**فارسی** · [English](README.en.md)
+
+<a href="https://soroushse7o.github.io/termux-to-ish/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=Convert+Termux+commands;to+iSH+seamlessly" alt="Typing SVG">
+</a>
 A single-file HTML page (Persian by default, with an English toggle) that converts **Termux** commands (Android) into commands compatible with **iSH** (a Linux shell on iPhone). Everything runs in the browser; nothing is sent anywhere.
 
 ---
