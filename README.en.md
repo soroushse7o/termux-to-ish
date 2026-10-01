@@ -128,7 +128,7 @@ If the command mentions `arm64`, `aarch64`, `armv7`, `amd64` or `x86_64`, the to
 
 ## 3. Usage
 
-1. Open `تبدیل_دستور_ترموکس_به_iSH.html` in a browser (online or offline; only the Vazirmatn font loads from Google, with a fallback font when offline).
+1. Open `index.html` in a browser (online or offline; only the Vazirmatn font loads from Google, with a fallback font when offline).
 2. Use the language button (top corner) to switch between Persian (default) and English; your choice is remembered in the browser.
 3. Paste the Termux command; the output updates live.
 4. Read the warnings (amber); anything that could not be converted is explained there.
